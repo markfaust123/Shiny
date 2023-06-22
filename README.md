@@ -1,1 +1,1 @@
-# Shiny
+# Shiny diamond app!
